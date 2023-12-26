@@ -1,0 +1,5 @@
+{
+    "deno.enablePaths": ["./functions"],
+    "deno.importMap": "./import_map.json",
+    "deno.config": "./deno.jsonc"
+}

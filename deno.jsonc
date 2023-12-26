@@ -1,0 +1,6 @@
+{
+    "importMap": "./import_map.json",
+    "lint": {
+        "include": ["./functions"]
+    }
+}
