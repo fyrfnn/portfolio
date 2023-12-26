@@ -1,3 +1,6 @@
 {
-    "imports": {}
+    "imports": {
+        "fmt/colors": "https://deno.land/std@0.210.0/fmt/colors.ts",
+        "oak": "https://deno.land/x/oak@v12.6.1/mod.ts"
+    }
 }
