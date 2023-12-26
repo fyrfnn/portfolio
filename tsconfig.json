@@ -1,0 +1,18 @@
+{
+    "exclude": ["./functions", "./node_modules"],
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "module": "esnext",
+        "noEmitOnError": true,
+        "emitDeclarationOnly": true,
+        "declarationDir": "./build/types",
+        "allowJs": true,
+        "checkJs": false,
+        "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
+        "jsx": "react"
+    }
+}
